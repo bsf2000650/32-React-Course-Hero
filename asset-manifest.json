@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/32-React-Course-Hero/static/css/main.c35b7f88.css",
+    "main.js": "/32-React-Course-Hero/static/js/main.e6557292.js",
+    "static/media/marketing.gif": "/32-React-Course-Hero/static/media/marketing.cc68e0ec04a19fc60835.gif",
+    "static/media/app.gif": "/32-React-Course-Hero/static/media/app.bc7bb77027e6382b8e46.gif",
+    "static/media/web.gif": "/32-React-Course-Hero/static/media/web.7835ddbfd9d23e02b60c.gif",
+    "static/media/digital.gif": "/32-React-Course-Hero/static/media/digital.6c140260ac0adf2912a7.gif",
+    "static/media/software.gif": "/32-React-Course-Hero/static/media/software.5db05820cb81645a1f93.gif",
+    "static/media/android.gif": "/32-React-Course-Hero/static/media/android.ed621fabd3ddd6186f48.gif",
+    "static/media/grow-business.jpg": "/32-React-Course-Hero/static/media/grow-business.d66eb04d4f5c547b72dd.jpg",
+    "static/media/hero-img.jpg": "/32-React-Course-Hero/static/media/hero-img.12c55ebe67a562c976fc.jpg",
+    "index.html": "/32-React-Course-Hero/index.html",
+    "main.c35b7f88.css.map": "/32-React-Course-Hero/static/css/main.c35b7f88.css.map",
+    "main.e6557292.js.map": "/32-React-Course-Hero/static/js/main.e6557292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c35b7f88.css",
+    "static/js/main.e6557292.js"
+  ]
+}
