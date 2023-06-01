@@ -31,13 +31,37 @@
  }
 
  @media (max-width : 991px){
+  #nav-bar{
+    text-align: center;
+  }
   .navbar-brand{
     font-size: 1.5rem !important;
+    margin-bottom: 100px;
+  }
+  .header-img{
+    width: 50%;
+    height: 20vh;
   }
   .menu_active{
     font-weight: bold;
     border-bottom: none;
   }
+  #head-img{
+    margin: 30px;
+   }
+   footer{
+    margin-bottom: 0px;
+   }
+ }
+ @media (max-width : 400px) {
+  #header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #head-img{
+    margin: 30px;
+   }
  }
 
  /* Main Landing Section 

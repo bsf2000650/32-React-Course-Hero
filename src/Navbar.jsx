@@ -9,8 +9,8 @@ const Navbar = () => {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg bg-body-tertiary">
               <div className="container-fluid">
-                <NavLink className="navbar-brand" to="/">
-                  Football Sell
+                <NavLink id="nav-bar" className="navbar-brand" to="/">
+                  Course Hero
                 </NavLink>
                 <button
                   className="navbar-toggler"
